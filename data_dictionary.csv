@@ -1,0 +1,22 @@
+Table,Field,Description,,
+accounts,account,Company name,,company
+accounts,sector,Industry,,sector
+accounts,year_established,Year Established,,year_established
+accounts,revenue,Annual revenue (in millions of USD),,revenue
+accounts,employees,Number of employees,,employees_count
+accounts,office_location,Headquarters,,office_location
+accounts,subsidiary_of,Parent company,,subsidiary_of
+products,product,Product name,,product
+products,series,Product series,,series
+products,sales_price,Suggested retail price,,sales_price
+sales_teams,sales_agent,Sales agent,,sales_agent
+sales_teams,manager,Respective sales manager,,manager
+sales_teams,regional_office,Regional office,,regional_office
+sales_pipeline,opportunity_id,Unique identifier,,opportunity_id
+sales_pipeline,sales_agent,Sales agent ,,sales_agent
+sales_pipeline,product,Product name,,product
+sales_pipeline,account,Company name,,company
+sales_pipeline,deal_stage,Sales pipeline stage (Prospecting > Engaging > Won / Lost),,deal_stage
+sales_pipeline,engage_date,"Date in which the ""Engaging"" deal stage was initiated",,engage_date
+sales_pipeline,close_date,"Date in which the deal was ""Won"" or ""Lost""",,close_date
+sales_pipeline,close_value,Revenue from the deal,,close_value
